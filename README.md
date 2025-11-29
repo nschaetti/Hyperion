@@ -1,8 +1,3 @@
-Below is a **clean, comment-free, icon-free, English-only** `main.md` containing the full **Hyperion Roadmap**.
-This is formatted as a **serious technical document**, ready to place at the root of your repository.
-
----
-
 # Hyperion Roadmap
 
 ## Overview
